@@ -132,10 +132,15 @@ body {
 }
 
 .compare h4 {
-    text-align: center;
+    text-align: left;
     margin-top: 8px;
     margin-bottom: 5px;
+    text-decoration: underline;
 }
+
+
+
+
 
 #quote {
     display: flex;
