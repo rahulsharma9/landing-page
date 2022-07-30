@@ -112,7 +112,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-content: center;
-    width: 300px;
+    width: 280px;
 }
 
 #heading {
@@ -129,6 +129,7 @@ body {
 
 .compare p {
     margin-bottom: 5px;
+    text-align: justify;
 }
 
 .compare h4 {
