@@ -166,3 +166,14 @@ body {
     width: 660px;
     justify-content: flex-end;
 }
+
+#footer {
+    background-color: rgb(83, 82, 82);
+    color: #e5e7eb;
+    padding: 15px;
+    font-size: 13px;
+}
+
+#footer a {
+    color: #e5e7eb;
+}
